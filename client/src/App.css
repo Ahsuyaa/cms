@@ -1,0 +1,20 @@
+.slider .awssld__wrapper {
+    height: 500px;
+}
+
+.awssld__controls button .awssld__controls__arrow-left,
+.awssld__controls button .awssld__controls__arrow-right {
+    height: 20px;
+}
+
+.awssld__bullets {
+    display: none !important;
+}
+
+p {
+    font-size: 18px;
+}
+
+.newstable {
+    padding: 20px;
+}
